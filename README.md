@@ -38,4 +38,10 @@ The dataset includes:
 3. **Explore Insights**: View the **movie ratings**, **runtime**, and **earnings** for the filtered list of movies.
 4. **Top Movies**: The dashboard shows a summary of the top-rated movies according to your selected filters, providing insights into both critical reception and commercial success.
 
+
+## Video Walkthrough
+Watch a short 5-minute walkthrough of the dashboard here:
+
+[Watch the Demo Video](img/demo.mp4)
+
 Enjoy exploring the IMDB Top 1000 Movies and find the perfect movie to watch next!
